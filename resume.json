@@ -1,0 +1,101 @@
+{
+    "basics": {
+        "name": "Peter Neal",
+        "email": "peterneal150@gmail.com",
+        "phone": "(979) 319-6958",
+        "summary": "Highly motivated IT graduate with service, support, and project experience. Known for exceptional service, thoughtful and comprehensive solution design, broad knowledge in numerous domains of computing and IT, and continuous learning.",
+        "location": {
+            "address": "2001 W Hickory St #125",
+            "postalCode": "76201",
+            "city": "Denton, TX",
+            "countryCode": "US"
+        }
+    },
+        "work":[
+            {
+                "company": "University of North Texas - TAMS & Honors College",
+                "position": "Student Assistant IT Manager",
+                "startDate": "2018-08-06",
+                "endDate": "2019-04-19",
+                "summary": "Assistant to the IT Manager in support of the faculty and staff of UNT's Honors College and TAMS.",
+                "highlights": ["Organized objects in large Active Directory environment for easier policy deployment", "Reduced network load by configuring a just-in-time database access policy.", "Reduced time spent on redundant tasks through PowerShell automation.", "Operated and maintained student-facing 3D and wide-format printers.", "Developed real-time ticket system for students to track the status of research poster requests."]
+            },
+            {
+                "company": "Viatech Publishing Solutions",
+                "position": "IT Intern",
+                "startDate": "2018-05-17",
+                "endDate": "2018-08-06",
+                "summary": "IT Intern at Dallas-based content fulfillment and software development firm.",
+                "highlights": ["Leveraged Splunk data and a RaspberryPi to create an audible network alert system for immediate notification of when a critical problem occured.", "Launched a procedure for rapid employee on-boarding and device provisioning allowing new employees to be online in 15 minutes.", "Minimized downtime by troubleshooting and fixing local and remote network issues with effective root-cause analysis.", "Kept local and remote users productive with fast, personable tier 1 and tier 2 support."]   
+            },
+            {
+                "company": "University of North Texas - Transfer Center",
+                "position": "Transfer Ambassador",
+                "startDate": "2016-04-11",
+                "endDate": "2018-12-17",
+                "summary": "Student ambassador and peer mentorship role at UNT in support of prospective, incoming, and current transfer students.",
+                "highlights": ["Planned and executed outreach events with my team and UNT professionals to increase Transfer Center involvement.", "Represented the University and Transfer Center to transfer students during orientations, outreach events, and town-hall meetings.", "Increased university engagement through an interest-based student community I co-created and led."]
+            },
+            {
+                "company": "Milsoft Utility Solutions",
+                "position": "IT Intern",
+                "startDate": "2017-06-17",
+                "endDate": "2017-08-21",
+                "summary": "Brief internship on my return from a semester abroad with software development firm specializing in SaaS applications for power grid operators",
+                "highlights": ["Upgraded obsolete CRM including underlying OS and stack and moved to VM.", "Built and deployed physical and virtual servers for in-house developers.", "Provided desktop support to technical and non-technical on-prem users."]
+            }
+
+        ],
+        "education": [
+            {
+                "institution": "University of North Texas",
+                "area": "Information Technology",
+                "studyType": "Bachelor",
+                "startDate": "2016-01-18",
+                "endDate": "2019-07-05",
+                "gpa": "3.7"
+            }
+        ],
+
+        "skills": [
+            {
+                "name":"Project Management",
+                "keywords":["Senior Design Capstone SDLC Project", "SCRUM Leader", "Project-based learning experience"]
+            },
+            {
+                "name": "Networking",
+                "keywords": ["Cisco routers and switches", "DHCP", "LAN", "Wireless Networking", "MDM", "TCP/IP", "Wireshark"]
+            },
+            {
+                "name": "Programming/Scripting",
+                "keywords": ["JavaScript","C++","C#", "Python", "PowerShell", "Bash"]
+            },
+            {
+                "name": "Environments",
+                "keywords": ["Windows", "Linux", "Android"]
+            },
+            {
+                "name": "Databases",
+                "keywords" : ["NoSQL", "MongoDB", "SQL", "MySQL", "SQLite"]
+            },
+            {
+                "name": "Cloud Environments",
+                "keywords": ["AWS", "Vultr"]
+            },
+            {
+                "name": "Software",
+                "keywords": ["Git", "Nginx", "VMWare", "Visual Studio", "VS Code", "Virtualbox", "LanSweeper", "Active Directory"]
+            },
+            {
+                "name": "Web Development",
+                "keywords": ["Meteor JS", "Flask", "HTML", "CSS", "Adobe Animate"]
+            }
+        ],
+        "languages": [
+            {
+                "language": "English",
+                "fluency": "Native Speaker"
+            }
+        ]
+
+}
